@@ -1,3 +1,3 @@
 # WeatherAppMobileAppDev
- Weather APP for mobile dev
+Weather APP created for mobile application development.
 Transfered from google classrooms.
