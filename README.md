@@ -1,2 +1,3 @@
 # WeatherAppMobileAppDev
- Weather APp for mobile dev
+ Weather APP for mobile dev
+Transfered from google classrooms.
